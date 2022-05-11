@@ -5,6 +5,7 @@
     
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabbiReis&theme=monokai"/>
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabbiReis&theme=monokai"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabbiReis&theme=monokai"/>
 </div>
   
   ##
