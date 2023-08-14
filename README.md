@@ -1,4 +1,4 @@
-### Oii, eu sou a Gabriela Reis.
+### Oii, eu sou a Gabii.
 ##
 <div align="center">
   <a href="https://github.com/GabbiReis">
