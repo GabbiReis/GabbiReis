@@ -1,4 +1,4 @@
-### Oii, eu sou a Gabii.
+### Oii, eu sou a Gabi.
 ##
 <div align="center">
   <a href="https://github.com/GabbiReis">
