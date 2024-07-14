@@ -14,7 +14,7 @@
   <img align="center" alt="Gabi-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-Terraform" height="30" width="40" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254445/terraform-icon-icon-md.png?size=90&color=currentColor">
+  <img align="center" alt="Gabi-Terraform" height="30" width="40" src="https://img.icons8.com/?size=100&id=kEkT1u7zTDk5&format=png&color=000000?size=128&color=currentColor">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-Csharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
