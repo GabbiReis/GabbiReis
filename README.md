@@ -11,14 +11,13 @@
   ##
   
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Gabi-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabi-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Gabi-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
   <img align="center" alt="Gabi-Csharp" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
 </div>
 
   ##
