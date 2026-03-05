@@ -1,25 +1,6 @@
 ### Oii, eu sou a Gabi.
 ##
 
-<div align="center">
-  <a href="https://github.com/GabbiReis">
-    <img
-      height="180em"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabbiReis&theme=monokai"
-    />
-    <img
-      height="180em"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabbiReis&theme=monokai"
-    />
-    <img
-      height="180em"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabbiReis&theme=monokai"
-    />
-  </a>
-</div>
-
-##
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Gabi-Docker" height="30" width="40"
        src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
@@ -39,6 +20,16 @@
 
 ##
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/GabbiReis/GabbiReis/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/GabbiReis/GabbiReis/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+       src="https://raw.githubusercontent.com/GabbiReis/GabbiReis/output/pacman-contribution-graph.svg">
+</picture>
+
+##
 <div align="center">
   <a href="https://instagram.com/" target="_blank">
     <img src="https://user-images.githubusercontent.com/100102288/167848802-d8145e01-7ef0-4491-85a3-affda0e635e6.png">
@@ -54,15 +45,5 @@
   </a>
 </div>
 
-##
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/GabbiReis/GabbiReis/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/GabbiReis/GabbiReis/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/GabbiReis/GabbiReis/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
