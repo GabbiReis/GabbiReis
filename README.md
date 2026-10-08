@@ -1,26 +1,20 @@
-### Oii, eu sou a Gabi.
-##
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2121DE&height=170&section=header&text=Oii%2C%20eu%20sou%20a%20Gabi!&fontSize=42&fontColor=FFD700&animation=fadeIn&fontAlignY=38" />
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Gabi-Docker" height="30" width="40"
-       src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-Git" height="30" width="40"
-       src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-React" height="30" width="40"
-       src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-Terraform" height="30" width="40"
-       src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-CSS" height="30" width="40"
-       src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-Python" height="30" width="40"
-       src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Gabi-Csharp" height="30" width="40"
-       src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
+<!-- Texto digitando -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=READY!;Docker+%7C+React+%7C+C%23+%7C+Python;Fugindo+dos+fantasmas+do+deploy+%F0%9F%91%BB" />
 </div>
 
-##
+<br>
 
-<picture align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,react,terraform,css,python,cs&perline=7" />
+</div>
+
+<br>
+
+<picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/GabbiReis/GabbiReis/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)"
@@ -29,21 +23,14 @@
        src="https://raw.githubusercontent.com/GabbiReis/GabbiReis/output/pacman-contribution-graph.svg">
 </picture>
 
-##
+<br>
+
 <div align="center">
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/100102288/167848802-d8145e01-7ef0-4491-85a3-affda0e635e6.png">
-  </a>
-  <a href="https://discord.gg/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/100102288/167849027-7a54e181-8a96-4525-82e9-814291d567d7.png">
-  </a>
-  <a href="mailto:gabrielastefanereis@gmail.com">
-    <img src="https://user-images.githubusercontent.com/100102288/167850290-f2aa17a9-b10c-4673-aeca-1b5b9ea9cb5d.png">
-  </a>
-  <a href="https://www.linkedin.com/in/gabi-reis/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/100102288/167848208-0d937b77-f2ef-416a-8ece-8902e273f15e.png">
-  </a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700&labelColor=000000" /></a>
+  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=FFD700&labelColor=000000" /></a>
+  <a href="mailto:gabrielastefanereis@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/gabi-reis/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000" /></a>
 </div>
 
-
-###
+<!-- Rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2121DE,100:000000&height=100&section=footer" />
